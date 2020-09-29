@@ -25,7 +25,7 @@ SECRET_KEY = 'exhlfdat&vfum(-34*c2uroi(($ww(yo$9pv98=e6p^gl(-eoj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['206.189.237.160','127.0.0.1']
+ALLOWED_HOSTS = ['206.189.237.160','127.0.0.1','trashpic.club']
 
 
 # Application definition
